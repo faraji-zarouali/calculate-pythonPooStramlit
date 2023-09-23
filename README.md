@@ -1,3 +1,3 @@
-# calcule-pythonPooStramlit
-une application web qui calcule de la somme, la soustraction, la multiplication et la
-division de deux nombres en utilisant la POO et le module Streamlit.
+# calculate-pythonPooStramlit
+a web application that calculates sum, subtraction, multiplication and
+division of two numbers using OOP and the Streamlit module.
